@@ -1,6 +1,0 @@
-[gcode_macro start_test]
-
-gcode:
-  G28
-  G1 Z5 F3000
-
