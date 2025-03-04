@@ -1,4 +1,5 @@
 [gcode_macro test_start]
 
 gcode:
+  G28
 
