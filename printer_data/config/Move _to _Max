@@ -1,0 +1,3 @@
+[gcode_macro MOVE_TO_MAX_Z]
+gcode:
+  G1 Z{printer.toolhead.axis_maximum.z} F3000
